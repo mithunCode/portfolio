@@ -39,22 +39,22 @@ const Skills = () => {
         <div className="mt-2 flex gap-16 justify-around items-center flex-wrap">
           <img
             src={infy}
-            alt=""
+            alt="Infosys Certification"
             className="w-60 hover:w-96 duration-500  hover:border hover:border-[#ffd65c]"
           />
           <img
             src={udemy}
-            alt=""
+            alt="Udemy Certification"
             className="w-60 hover:w-96 duration-500 hover:border hover:border-[#ffd65c]"
           />
           <img
             src={js}
-            alt=""
+            alt="JavaScript Certification"
             className="w-60 hover:w-96 duration-500 hover:border hover:border-[#ffd65c]"
           />
           <img
             src={css}
-            alt=""
+            alt="Css Certification"
             className="w-60 hover:w-96 duration-500 hover:border hover:border-[#ffd65c]"
           />
         </div>
